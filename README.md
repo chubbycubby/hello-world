@@ -1,2 +1,5 @@
 # hello-world
-My first repository.
+
+Welcome to my world of pointless whosits and whatsits.
+
+
